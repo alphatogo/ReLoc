@@ -1,0 +1,17 @@
+Num_observation_layers: 1
+First_layer_num: 5
+Observation_critic: False
+Pseudocode: False
+Population: True
+Code_debug: True
+search_budget_node: 30
+expand_num_per_call: 3
+expand_budget: 3
+Selection_method: ["Test case", "Reward model"]
+select_top_k: 2
+Selection_reward_weight:
+   "Test case": 10
+   "Reward model": 1
+   "Self score": 1
+
+Pass@n: 30

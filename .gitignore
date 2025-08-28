@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+output/
+data/LCB_SEED_CODE_32B/
+data/**/__pycache__/
+.DS_Store

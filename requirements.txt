@@ -1,0 +1,12 @@
+torch
+transformers
+vllm
+trl
+openai
+datasets
+numpy
+pandas
+pyyaml
+tqdm
+psutil
+flash-attn
